@@ -1,0 +1,6 @@
+name: instant_payments
+version: '1.0'
+display_version: INST-1.0 (PROD)
+start_page: 2.0@instant_payments:INST:page$index.adoc
+nav:
+  - modules/INST/nav.adoc
