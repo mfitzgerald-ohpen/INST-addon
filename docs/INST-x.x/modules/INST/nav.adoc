@@ -1,1 +1,1 @@
-include::_@START:ROOT:partial$nav.adoc[OhpenDocs]
+include::_@ohpendocs:ROOT:partial$nav.adoc[OhpenDocs]
